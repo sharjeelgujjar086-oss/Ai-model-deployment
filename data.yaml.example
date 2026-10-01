@@ -1,0 +1,8 @@
+# Rename/copy this to data.yaml when training your own detector.
+path: dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: license_plate
